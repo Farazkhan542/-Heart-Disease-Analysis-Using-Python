@@ -1,0 +1,21 @@
+Linear Regression:
+    Scores =  [0.6160745  1.13681809 0.88621414 0.84645862 0.84315254 0.84416435
+                 0.77308298 0.8526225  0.93323333 0.65260986]
+    Mean =  0.8384430906057423
+    Standard deviation =  0.13742956034515527
+
+DecisionTreeRegressor:
+    Scores =  [1.03923048 1.56204994 1.19023807 1.20761473 1.17260394 1.32287566
+                 0.84162541 1.13651514 1.22474487 1.39940464]
+    Mean =  1.209690287513321
+    Standard deviation =  0.185695292426254
+
+RandomForestRegressor:
+    Scores =  [0.75056246 1.3248064  0.97865767 0.87513332 0.76868936 0.85415406
+                 0.57074513 0.86602781 0.93535644 0.80504399]
+    Mean =  0.8729176644079846
+    Standard deviation =  0.18478009767786827
+
+
+
+FInally Linear Regression have better results as compare to other models 
